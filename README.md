@@ -61,11 +61,6 @@ npm run build
 
 ## Capturas
 
-Puedes reemplazar estas imágenes con screenshots reales de la app:
-
-- `docs/images/dashboard-preview.svg`
-- `docs/images/expenses-preview.svg`
-
 ![Dashboard](docs/images/dashboard-preview.png)
 ![Expenses](docs/images/expenses-preview.png)
 
